@@ -1,9 +1,11 @@
 # U-SimBA
 
-This repository contains the codes used in our study on *Simple black-box universal adversarial attacks on medical image classification based on deep neural networks*.
+This repository contains the codes used in our study on [*Simple black-box universal adversarial attacks on medical image classification based on deep neural networks*](https://arxiv.org/abs/2108.04979).
 
 ## Terms of use
-MIT licensed.
+MIT licensed. Happy if you cite our preprint when using the codes:
+
+Koga K & Takemoto K (2021) Natural images allow universal adversarial attacks on medical image classification using deep neural networks with transfer learning. arXiv:2108.04979.
 
 ## Usage
 
