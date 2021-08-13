@@ -5,7 +5,7 @@ This repository contains the codes used in our study on [*Simple black-box unive
 ## Terms of use
 MIT licensed. Happy if you cite our preprint when using the codes:
 
-Koga K & Takemoto K (2021) Natural images allow universal adversarial attacks on medical image classification using deep neural networks with transfer learning. arXiv:2108.04979.
+Koga K & Takemoto K (2021) Simple black-box universal adversarial attacks on medical image classification based on deep neural networks. arXiv:2108.04979.
 
 ## Usage
 
