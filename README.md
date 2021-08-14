@@ -25,7 +25,7 @@ python create_data.py --dataset 'chestx' --nb_samples 100
 ```
 
 ### 3. Install U-SimBA
-U-SimBA is implemented using implemented using Adversarial Robustness Toolbox (ART, version 1.7.0). Code is available in [our forked version of ART](https://github.com/kztakemoto/adversarial-robustness-toolbox/blob/main/art/attacks/evasion/universal_simba.py).
+U-SimBA is implemented using Adversarial Robustness Toolbox (ART, version 1.7.0). Code is available in [our forked version of ART](https://github.com/kztakemoto/adversarial-robustness-toolbox/blob/main/art/attacks/evasion/universal_simba.py).
 
 ```
 pip install git+https://github.com/kztakemoto/adversarial-robustness-toolbox
