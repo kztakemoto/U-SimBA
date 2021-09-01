@@ -10,7 +10,7 @@ Koga K & Takemoto K (2021) Simple black-box universal adversarial attacks on med
 ## Usage
 
 ### 0. Check the usage of U-SimBA with a simple example
-See Notebook `U_SimBA_demo.ipynb`.
+See [Notebook](https://github.com/kztakemoto/U-SimBA/blob/main/U_SimBA_demo.ipynb) `U_SimBA_demo.ipynb`.
 
 ### 1. Medical images and DNN models
 See [hkthirano/MedicalAI-UAP](https://github.com/hkthirano/MedicalAI-UAP) for details, including the requirements.
